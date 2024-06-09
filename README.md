@@ -8,7 +8,7 @@ I'm a passionate developer with a love for creating innovative solutions and con
 * Tools and Platforms: [Git, Docker,]
 * Databases: [MySQL, PostgreSQL, Firebase]
 
-Contact Me
+### Contact Me
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via:
 
 + LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hannes-koppensteiner-0a1b21267/)
