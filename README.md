@@ -25,3 +25,6 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 If you find my work interesting, consider following me on GitHub to stay updated with my latest projects and contributions.
 
 ## Thank you for visiting my GitHub profile!
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korkensteiner)](https://github.com/anuraghazra/github-readme-stats)
