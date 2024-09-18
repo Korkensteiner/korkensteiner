@@ -2,7 +2,7 @@
 ### 👨🏼‍🦱 About Me
 I'm a passionate developer with a love for creating innovative solutions and contributing to the tech community. Currently I am attending the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/). I enjoy working on projects in a team environment that also challenge me to learn new things and improve my coding practices. I mainly work on web and mobile projects; therefor I prefer working on both frontend and backend.
 
-+ 18 years old from Austria
++ 19 years old from Austria
 + studying at the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/) 📚
 + Fullstack web and mobile developer 💻📱
 
