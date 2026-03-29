@@ -1,9 +1,10 @@
 ## Hi there, I'm Hannes! 👋
 ### 👨🏼‍🦱 About Me
-I'm a passionate developer with a love for creating innovative solutions and contributing to the tech community. Currently I am attending the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/). I enjoy working on projects in a team environment that also challenge me to learn new things and improve my coding practices. I mainly work on web and mobile projects; therefor I prefer working on both frontend and backend.
+I'm a developer, that graduated at the Higher Technical College in St. Pölten. I love creating web and mobile apps and enjoy working in a team where I can learn and grow. I love working on both frontend and backend, and I’m always excited about new challenges.
 
-+ 19 years old from Austria
-+ studying at the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/) 📚
+
++ developer from Austria
++ graduated at the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/) 📚
 + Fullstack web and mobile developer 💻📱
 
 
@@ -18,13 +19,8 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 
 + LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hannes-koppensteiner-0a1b21267/)
 
-### ✅ Also Checkout
-+ FeatherByte: I'm the Co-Founder of the group FeatherByte. We are a little group that work on several projects. Some of them are also open-source. For more information checkout our Instagram [@FeatherByte](https://www.instagram.com/featherbyte.dev/)
-
 ## Let's Connect!
-If you find my work interesting, consider following me on GitHub to stay updated with my latest projects and contributions.
+If you find my work interesting, consider following me on Gitlab to stay updated with my latest projects and contributions.
 
 ## Thank you for visiting my GitHub profile!
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korkensteiner)](https://github.com/anuraghazra/github-readme-stats)
