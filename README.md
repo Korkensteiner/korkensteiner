@@ -10,7 +10,7 @@ I'm a developer, that graduated at the Higher Technical College in St. Pölten. 
 
 ### 👨‍💻 My Skills 
 * Programming Languages: Python, Js/Ts, Java, Dart
-* Frameworks and Libraries: Flask, ExpressJS, Dart, Angular, Flutter, Bootstrap, Tailwind
+* Frameworks and Libraries: Flask, ExpressJS, Dart, Angular, Flutter, Bootstrap, Tailwind, Selenium
 * Tools and Platforms: Git, Docker
 * Databases: MySQL, PostgreSQL, Firebase
 
