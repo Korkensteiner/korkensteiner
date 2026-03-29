@@ -5,7 +5,7 @@ I'm a developer, that graduated at the Higher Technical College in St. Pölten. 
 
 + developer from Austria
 + graduated at the [Higher Technical College in St.Pölten](https://www.htlstp.ac.at/) 📚
-+ Fullstack web and mobile developer 💻📱
++ QA Professional
 
 
 ### 👨‍💻 My Skills 
